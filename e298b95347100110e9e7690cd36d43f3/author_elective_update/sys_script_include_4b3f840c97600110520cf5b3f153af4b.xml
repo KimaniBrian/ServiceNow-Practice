@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="DELETE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_698643_gemstar.feature01</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>feature01</name>
+        <script><![CDATA[var feature01 = Class.create();
+feature01.prototype = {
+    initialize: function() {
+		//adding in a comment - LB
+    },
+
+    type: 'feature01'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>bkimani</sys_created_by>
+        <sys_created_on>2021-12-15 17:21:24</sys_created_on>
+        <sys_id>4b3f840c97600110520cf5b3f153af4b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>feature01</sys_name>
+        <sys_package display_value="Gemstar" source="x_698643_gemstar">e298b95347100110e9e7690cd36d43f3</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Gemstar">e298b95347100110e9e7690cd36d43f3</sys_scope>
+        <sys_update_name>sys_script_include_4b3f840c97600110520cf5b3f153af4b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-15 17:48:56</sys_updated_on>
+    </sys_script_include>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gemstar">e298b95347100110e9e7690cd36d43f3</application>
+        <file_path/>
+        <instance_id>770ae043dbf90c940b9d21c4059619f2</instance_id>
+        <instance_name>dev96409</instance_name>
+        <name>sys_script_include_4b3f840c97600110520cf5b3f153af4b</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;
+    &lt;sys_script_include action="INSERT_OR_UPDATE"&gt;
+        &lt;access&gt;package_private&lt;/access&gt;
+        &lt;active&gt;true&lt;/active&gt;
+        &lt;api_name&gt;x_698643_gemstar.feature01&lt;/api_name&gt;
+        &lt;caller_access/&gt;
+        &lt;client_callable&gt;false&lt;/client_callable&gt;
+        &lt;description/&gt;
+        &lt;name&gt;feature01&lt;/name&gt;
+        &lt;script&gt;&lt;![CDATA[var feature01 = Class.create();
+feature01.prototype = {
+    initialize: function() {
+		//adding in a comment - LB
+    },
+
+    type: 'feature01'
+};]]&gt;&lt;/script&gt;
+        &lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;
+        &lt;sys_created_by&gt;bkimani&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2021-12-15 17:21:24&lt;/sys_created_on&gt;
+        &lt;sys_id&gt;4b3f840c97600110520cf5b3f153af4b&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;
+        &lt;sys_name&gt;feature01&lt;/sys_name&gt;
+        &lt;sys_package display_value="Gemstar" source="x_698643_gemstar"&gt;e298b95347100110e9e7690cd36d43f3&lt;/sys_package&gt;
+        &lt;sys_policy&gt;read&lt;/sys_policy&gt;
+        &lt;sys_scope display_value="Gemstar"&gt;e298b95347100110e9e7690cd36d43f3&lt;/sys_scope&gt;
+        &lt;sys_update_name&gt;sys_script_include_4b3f840c97600110520cf5b3f153af4b&lt;/sys_update_name&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2021-12-15 17:48:56&lt;/sys_updated_on&gt;
+    &lt;/sys_script_include&gt;
+&lt;/record_update&gt;</payload>
+        <payload_hash>-1772592508</payload_hash>
+        <record_name>feature01</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>bkimani</sys_created_by>
+        <sys_created_on>2021-12-20 17:07:48</sys_created_on>
+        <sys_id>ce2c756597200110520cf5b3f153afe8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17dd8d049cc0000001</sys_recorded_at>
+        <sys_updated_by>bkimani</sys_updated_by>
+        <sys_updated_on>2021-12-20 17:07:48</sys_updated_on>
+        <type>Script Include</type>
+        <update_guid>8e2c75655e20011007ad076613383ee8</update_guid>
+        <update_guid_history>e45f8cc85d6001107076536e4319eac2:2087863451</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>bkimani</sys_created_by>
+        <sys_created_on>2021-12-20 17:30:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_include">sys_script_include</sys_db_object>
+        <sys_id>2bad275fef1a4dc6a47457f7cec166e4</sys_id>
+        <sys_metadata>4b3f840c97600110520cf5b3f153af4b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>feature01</sys_name>
+        <sys_package display_value="Gemstar" source="x_698643_gemstar">e298b95347100110e9e7690cd36d43f3</sys_package>
+        <sys_parent/>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Gemstar">e298b95347100110e9e7690cd36d43f3</sys_scope>
+        <sys_scope_delete display_value="">1bc29ffada0949a8bab0f7cd1a95b040</sys_scope_delete>
+        <sys_update_name>sys_script_include_4b3f840c97600110520cf5b3f153af4b</sys_update_name>
+        <sys_update_version display_value="sys_script_include_4b3f840c97600110520cf5b3f153af4b">ce2c756597200110520cf5b3f153afe8</sys_update_version>
+        <sys_updated_by>bkimani</sys_updated_by>
+        <sys_updated_on>2021-12-20 17:30:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
