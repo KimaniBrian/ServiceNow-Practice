@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2021-12-20 20:15:47">
+<sys_user_group action="INSERT_OR_UPDATE">
+<active>true</active>
+<average_daily_fte/>
+<cost_center display_value=""/>
+<default_assignee display_value=""/>
+<description/>
+<email/>
+<exclude_manager>false</exclude_manager>
+<hourly_rate>0</hourly_rate>
+<include_members>false</include_members>
+<manager display_value=""/>
+<name>Starbucks Barista</name>
+<parent display_value=""/>
+<roles/>
+<source/>
+<sys_created_by>bkimani</sys_created_by>
+<sys_created_on>2021-12-20 17:21:31</sys_created_on>
+<sys_id>6b3f312997200110520cf5b3f153afcd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>bkimani</sys_updated_by>
+<sys_updated_on>2021-12-20 17:21:31</sys_updated_on>
+<type/>
+</sys_user_group>
+</unload>
