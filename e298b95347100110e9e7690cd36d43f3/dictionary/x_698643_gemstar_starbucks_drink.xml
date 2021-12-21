@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Starbucks drink" max_length="40" name="x_698643_gemstar_starbucks_drink" type="collection">
+        <element label="Calories" max_length="40" name="calories" type="integer"/>
+        <element label="Carb" max_length="40" name="carb" type="integer"/>
+        <element label="Fat" max_length="40" name="fat" type="integer"/>
+        <element label="Fiber" max_length="40" name="fiber" type="integer"/>
+        <element label="Image" max_length="40" name="image" type="user_image"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Protein" max_length="40" name="protein" type="integer"/>
+        <element label="Short Description" max_length="100" name="short_description" type="string"/>
+    </element>
+</database>
