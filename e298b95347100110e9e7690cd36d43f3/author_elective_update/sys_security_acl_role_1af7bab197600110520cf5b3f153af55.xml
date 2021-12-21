@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>bkimani</sys_created_by>
+        <sys_created_on>2021-12-21 16:07:37</sys_created_on>
+        <sys_id>1af7bab197600110520cf5b3f153af55</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_698643_gemstar_starbucks_drink.x_698643_gemstar.starbucks_drink_user</sys_name>
+        <sys_package display_value="Gemstar" source="x_698643_gemstar">e298b95347100110e9e7690cd36d43f3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gemstar">e298b95347100110e9e7690cd36d43f3</sys_scope>
+        <sys_security_acl display_value="x_698643_gemstar_starbucks_drink">5af7bab197600110520cf5b3f153af52</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_1af7bab197600110520cf5b3f153af55</sys_update_name>
+        <sys_updated_by>bkimani</sys_updated_by>
+        <sys_updated_on>2021-12-21 16:07:37</sys_updated_on>
+        <sys_user_role display_value="x_698643_gemstar.starbucks_drink_user" name="x_698643_gemstar.starbucks_drink_user">c6f7bab197600110520cf5b3f153af1d</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gemstar">e298b95347100110e9e7690cd36d43f3</application>
+        <file_path/>
+        <instance_id>770ae043dbf90c940b9d21c4059619f2</instance_id>
+        <instance_name>dev96409</instance_name>
+        <name>sys_security_acl_role_1af7bab197600110520cf5b3f153af55</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>bkimani</sys_created_by><sys_created_on>2021-12-21 16:07:37</sys_created_on><sys_id>1af7bab197600110520cf5b3f153af55</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_698643_gemstar_starbucks_drink.x_698643_gemstar.starbucks_drink_user</sys_name><sys_package display_value="Gemstar" source="x_698643_gemstar">e298b95347100110e9e7690cd36d43f3</sys_package><sys_policy/><sys_scope display_value="Gemstar">e298b95347100110e9e7690cd36d43f3</sys_scope><sys_security_acl display_value="x_698643_gemstar_starbucks_drink">5af7bab197600110520cf5b3f153af52</sys_security_acl><sys_update_name>sys_security_acl_role_1af7bab197600110520cf5b3f153af55</sys_update_name><sys_updated_by>bkimani</sys_updated_by><sys_updated_on>2021-12-21 16:07:37</sys_updated_on><sys_user_role display_value="x_698643_gemstar.starbucks_drink_user" name="x_698643_gemstar.starbucks_drink_user">c6f7bab197600110520cf5b3f153af1d</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-551939986</payload_hash>
+        <record_name>x_698643_gemstar_starbucks_drink.x_698643_gemstar.starbucks_drink_user</record_name>
+        <reverted_from/>
+        <source>ad2c4c4897600110520cf5b3f153afd6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>bkimani</sys_created_by>
+        <sys_created_on>2021-12-21 16:07:37</sys_created_on>
+        <sys_id>92f7bab197600110520cf5b3f153af58</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17dddbf8ae60000001</sys_recorded_at>
+        <sys_updated_by>bkimani</sys_updated_by>
+        <sys_updated_on>2021-12-21 16:07:37</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>daf7bab1b260011031f71b8faba56a57</update_guid>
+        <update_guid_history>daf7bab1b260011031f71b8faba56a57:-551939986</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_698643_gemstar_starbucks_drink.x_698643_gemstar.starbucks_drink_user">12b83af197600110520cf5b3f153af6e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>bkimani</sys_created_by>
+        <sys_created_on>2021-12-21 16:10:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>03c208ec90a7449b802d3f1015463119</sys_id>
+        <sys_metadata>1af7bab197600110520cf5b3f153af55</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_698643_gemstar_starbucks_drink.x_698643_gemstar.starbucks_drink_user</sys_name>
+        <sys_package display_value="Gemstar" source="x_698643_gemstar">e298b95347100110e9e7690cd36d43f3</sys_package>
+        <sys_parent display_value="x_698643_gemstar_starbucks_drink">5af7bab197600110520cf5b3f153af52</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Gemstar">e298b95347100110e9e7690cd36d43f3</sys_scope>
+        <sys_scope_delete display_value="">1bc29ffada0949a8bab0f7cd1a95b040</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_1af7bab197600110520cf5b3f153af55</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_1af7bab197600110520cf5b3f153af55">92f7bab197600110520cf5b3f153af58</sys_update_version>
+        <sys_updated_by>bkimani</sys_updated_by>
+        <sys_updated_on>2021-12-21 16:10:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
