@@ -1,5 +1,4 @@
 # Gemstar
-
 ## Documentation
 [Inital Setup](../main/Documentation/Initial%20Setup.md)
 
