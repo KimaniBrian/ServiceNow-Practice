@@ -15,10 +15,10 @@
     Click 'Generate token'
     Make sure to copy your new personal access token now. You won’t be able to see it again!
 ## On your computer
-   Open termial
-   Make directory 'ServiveNow'
-   Change to directory ServiceNow
-   Run command 'git clone [URL from 'Create fork' step]'
+    Open termial
+    Make directory 'ServiveNow'
+    Change to directory ServiceNow
+    Run command 'git clone [URL from 'Create fork' step]'
 ## ServiceNow
     Login into developer instance
 ### Import XML Files
