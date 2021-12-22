@@ -30,7 +30,7 @@
     Click 'Commit Files'
 ### On your computer
     [Add process to include files not captured in Update Sets here]
-## When featue is complete
+## When feature is complete
 ### GitHub   
 #### Create Pull Request
     Select branch [Name from 'Create Branch' step]
