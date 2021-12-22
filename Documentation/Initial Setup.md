@@ -33,7 +33,7 @@
     Click 'New'
     Select 'Basic Auth Credentials'
     Add 'Name'
-    Add 'User name' [Note from 'Create token' step)
+    Add 'User name' [Note from 'Create token' step]
     Add 'Password' [Token from 'Create token' step]
     Click 'Submit'
 ### Import Application
