@@ -1,5 +1,4 @@
-# Gemstar
-
+# Initial Setup
 ## GitHub
 ### Create fork
     Fork this repository
