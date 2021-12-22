@@ -36,7 +36,7 @@
     Add 'User name' [Note from 'Create token' step)
     Add 'Password' [Token from 'Create token' step]
     Click 'Submit'
-### Create Credentials
+### Import Application
     Open 'System Applications' -> 'Studio'
     On Studio Tab click 'Import From Source Control'
     Network protocol: 'https'
