@@ -15,9 +15,19 @@
     Click 'Generate token'
     Make sure to copy your new personal access token now. You won’t be able to see it again!
 ## On your computer
-   ...
+   Open termial
+   Make directory 'ServiveNow'
+   Change to directory ServiceNow
+   Run command 'git clone [URL from 'Create fork' step]'
 ## ServiceNow
     Login into developer instance
+### Import XML Files
+    Open 'System Update Sets' -> 'Retrieve Update Sets'
+    Click 'Import Update Set from XML'
+    Click 'Choose File' and navigate to ServiceNow -> Service-Practice -> Gemstar Groups directory
+    Select file
+    Upload file
+    Repeat steps above for each file
 ### Create Credentials
     Open 'Connections & Credentials' -> 'Credentials'
     Click 'New'
