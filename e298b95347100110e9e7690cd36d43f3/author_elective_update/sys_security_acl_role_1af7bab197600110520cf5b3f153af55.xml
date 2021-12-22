@@ -42,7 +42,7 @@
         <update_guid_history>daf7bab1b260011031f71b8faba56a57:-551939986</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="x_698643_gemstar_starbucks_drink.x_698643_gemstar.starbucks_drink_user">12b83af197600110520cf5b3f153af6e</sys_audit_delete>
+        <sys_audit_delete display_value="">12b83af197600110520cf5b3f153af6e</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>bkimani</sys_created_by>
         <sys_created_on>2021-12-21 16:10:54</sys_created_on>
