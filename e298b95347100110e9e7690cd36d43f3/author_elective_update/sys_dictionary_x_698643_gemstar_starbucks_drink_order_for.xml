@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="order_for" table="x_698643_gemstar_starbucks_drink">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes>encode_utf8=false</attributes>
+        <audit>false</audit>
+        <calculation/>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <column_label>Order for</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value>javascript:gs.getUserID()</default_value>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value display_value="Sender">2fd8e97bef3221002841f7f775c0fbc1</dynamic_default_value>
+        <dynamic_ref_qual/>
+        <element>order_for</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="Reference">reference</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>32</max_length>
+        <name>x_698643_gemstar_starbucks_drink</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference display_value="" name="sys_user">sys_user</reference>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual>roles=x_698643_gemstar.starbucks_user^EQ</reference_qual>
+        <reference_qual_condition table="sys_user">roles=x_698643_gemstar.starbucks_user^EQ<item endquery="false" field="roles" goto="false" newquery="false" operator="=" or="false" value="x_698643_gemstar.starbucks_user"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </reference_qual_condition>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-27 17:16:05</sys_created_on>
+        <sys_id>3f210eb7072001104b4dfc289c1ed07f</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Order for</sys_name>
+        <sys_package display_value="Gemstar" source="x_698643_gemstar">e298b95347100110e9e7690cd36d43f3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gemstar">e298b95347100110e9e7690cd36d43f3</sys_scope>
+        <sys_update_name>sys_dictionary_x_698643_gemstar_starbucks_drink_order_for</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-27 17:23:37</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>true</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gemstar">e298b95347100110e9e7690cd36d43f3</application>
+        <file_path/>
+        <instance_id>8115bcbfdb19c094f492c5970596192e</instance_id>
+        <instance_name>dev95441</instance_name>
+        <name>sys_dictionary_x_698643_gemstar_starbucks_drink_order_for</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="order_for" table="x_698643_gemstar_starbucks_drink"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes>encode_utf8=false</attributes><audit>false</audit><calculation/><choice/><choice_field/><choice_table/><column_label>Order for</column_label><comments/><create_roles/><default_value>javascript:gs.getUserID()</default_value><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value display_value="Sender">2fd8e97bef3221002841f7f775c0fbc1</dynamic_default_value><dynamic_ref_qual/><element>order_for</element><element_reference>false</element_reference><foreign_database/><function_definition/><function_field>false</function_field><internal_type display_value="Reference">reference</internal_type><mandatory>false</mandatory><max_length>32</max_length><name>x_698643_gemstar_starbucks_drink</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference display_value="" name="sys_user">sys_user</reference><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual>roles=x_698643_gemstar.starbucks_user^EQ</reference_qual><reference_qual_condition table="sys_user">roles=x_698643_gemstar.starbucks_user^EQ<item endquery="false" field="roles" goto="false" newquery="false" operator="=" or="false" value="x_698643_gemstar.starbucks_user"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></reference_qual_condition><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-12-27 17:16:05</sys_created_on><sys_id>3f210eb7072001104b4dfc289c1ed07f</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Order for</sys_name><sys_package display_value="Gemstar" source="x_698643_gemstar">e298b95347100110e9e7690cd36d43f3</sys_package><sys_policy/><sys_scope display_value="Gemstar">e298b95347100110e9e7690cd36d43f3</sys_scope><sys_update_name>sys_dictionary_x_698643_gemstar_starbucks_drink_order_for</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-12-27 17:23:37</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>true</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+        <payload_hash>-227639936</payload_hash>
+        <record_name>Starbucks drink.Order for</record_name>
+        <reverted_from/>
+        <source>55815456072001104b4dfc289c1ed09b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-27 17:23:37</sys_created_on>
+        <sys_id>46e20a3b072001104b4dfc289c1ed038</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17dfceb48cb0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-27 17:23:37</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>4ee20a3bc4200110477f41a32a3e7a37</update_guid>
+        <update_guid_history>4ee20a3bc4200110477f41a32a3e7a37:-227639936,27818eb7c1200110eedbd5a3eae93bdc:-1608693865,f3210eb72e200110cefe9f69df22ad92:-684497953</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-27 17:27:21</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>60ebf3f314d54a608aa8ea8c8a400a90</sys_id>
+        <sys_metadata>3f210eb7072001104b4dfc289c1ed07f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Order for</sys_name>
+        <sys_package display_value="Gemstar" source="x_698643_gemstar">e298b95347100110e9e7690cd36d43f3</sys_package>
+        <sys_parent display_value="Starbucks drink">61611056072001104b4dfc289c1ed041</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Gemstar">e298b95347100110e9e7690cd36d43f3</sys_scope>
+        <sys_scope_delete display_value="">1bc29ffada0949a8bab0f7cd1a95b040</sys_scope_delete>
+        <sys_update_name>sys_dictionary_x_698643_gemstar_starbucks_drink_order_for</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_x_698643_gemstar_starbucks_drink_order_for">46e20a3b072001104b4dfc289c1ed038</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-27 17:27:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
