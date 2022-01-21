@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="size" table="x_698643_gemstar_m2m_starbucks_dr_starbucks" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>size</element>
+            <name>x_698643_gemstar_m2m_starbucks_dr_starbucks</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-21 17:33:00</sys_created_on>
+            <sys_id>87c4b67b4701011080fc7868f36d43d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>size</sys_name>
+            <sys_package display_value="Gemstar" source="x_698643_gemstar">e298b95347100110e9e7690cd36d43f3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Gemstar">e298b95347100110e9e7690cd36d43f3</sys_scope>
+            <sys_update_name>sys_choice_x_698643_gemstar_m2m_starbucks_dr_starbucks_size</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-21 17:33:00</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>size</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Tall</label>
+            <language>en</language>
+            <name>x_698643_gemstar_m2m_starbucks_dr_starbucks</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-21 17:33:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fdb4ba7b4701011080fc7868f36d4376</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-21 17:33:00</sys_updated_on>
+            <value>tall</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>size</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Grande</label>
+            <language>en</language>
+            <name>x_698643_gemstar_m2m_starbucks_dr_starbucks</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-21 17:33:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fbc4ba7b4701011080fc7868f36d432d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-21 17:33:29</sys_updated_on>
+            <value>grande</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>size</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Venti</label>
+            <language>en</language>
+            <name>x_698643_gemstar_m2m_starbucks_dr_starbucks</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-21 17:33:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>50f4b27b4701011080fc7868f36d4344</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-21 17:33:48</sys_updated_on>
+            <value>venti</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

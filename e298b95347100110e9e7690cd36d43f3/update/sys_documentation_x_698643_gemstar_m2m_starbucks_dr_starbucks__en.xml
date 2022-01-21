@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Gemstar M2m Starbucks Dr Starbucks" language="en" table="x_698643_gemstar_m2m_starbucks_dr_starbucks">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Gemstar M2m Starbucks Dr Starbucks</label>
+            <language>en</language>
+            <name>x_698643_gemstar_m2m_starbucks_dr_starbucks</name>
+            <plural>Gemstar M2m Starbucks Dr Starbucks</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-21 17:27:22</sys_created_on>
+            <sys_id>ac837a3b4701011080fc7868f36d4380</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Gemstar M2m Starbucks Dr Starbucks</sys_name>
+            <sys_package display_value="Gemstar" source="x_698643_gemstar">e298b95347100110e9e7690cd36d43f3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Gemstar">e298b95347100110e9e7690cd36d43f3</sys_scope>
+            <sys_update_name>sys_documentation_x_698643_gemstar_m2m_starbucks_dr_starbucks__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-21 17:27:22</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

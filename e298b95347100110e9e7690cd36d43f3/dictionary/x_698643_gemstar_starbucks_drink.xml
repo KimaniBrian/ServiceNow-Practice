@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Starbucks drink" max_length="40" name="x_698643_gemstar_starbucks_drink" sizeclass="1" type="collection">
+    <element label="Starbucks drink" max_length="40" name="x_698643_gemstar_starbucks_drink" type="collection">
         <element label="Calories" max_length="40" name="calories" type="integer"/>
         <element label="Carb" max_length="40" name="carb" type="integer"/>
         <element label="Fat" max_length="40" name="fat" type="integer"/>

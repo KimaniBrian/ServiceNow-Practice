@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Gemstar M2m Starbucks Dr Starbucks" max_length="40" name="x_698643_gemstar_m2m_starbucks_dr_starbucks" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Size" max_length="40" name="size" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Tall" sequence="1" value="tall"/>
+                <element inactive_on_update="false" label="Grande" sequence="2" value="grande"/>
+                <element inactive_on_update="false" label="Venti" sequence="3" value="venti"/>
+            </choice>
+        </element>
+        <element attributes="encode_utf8=false" label="Starbucks" max_length="32" name="starbucks" reference="x_698643_gemstar_starbucks" type="reference"/>
+        <element attributes="encode_utf8=false" label="Starbucks drink" max_length="32" name="starbucks_drink" reference="x_698643_gemstar_starbucks_drink" type="reference"/>
+        <index name="index">
+            <element name="starbucks"/>
+        </index>
+        <index name="index2">
+            <element name="starbucks_drink"/>
+        </index>
+    </element>
+</database>
