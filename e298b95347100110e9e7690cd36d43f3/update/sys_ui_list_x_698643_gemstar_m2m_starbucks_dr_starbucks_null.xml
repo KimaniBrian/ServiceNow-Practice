@@ -37,13 +37,13 @@
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
-            <sum>false</sum>
+            <sum>true</sum>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2022-01-21 17:36:05</sys_created_on>
             <sys_id>d48576bb4701011080fc7868f36d433e</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-01-21 17:36:05</sys_updated_on>
+            <sys_updated_on>2022-01-31 17:33:08</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -67,13 +67,13 @@
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
-            <sum>false</sum>
+            <sum>true</sum>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2022-01-21 17:36:05</sys_created_on>
             <sys_id>d88576bb4701011080fc7868f36d433e</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-01-21 17:36:05</sys_updated_on>
+            <sys_updated_on>2022-01-31 17:33:52</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
