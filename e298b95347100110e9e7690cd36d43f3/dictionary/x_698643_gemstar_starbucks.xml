@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Starbucks" max_length="40" name="x_698643_gemstar_starbucks" type="collection">
+    <element extends="task" label="Starbucks" max_length="40" name="x_698643_gemstar_starbucks" sizeclass="0" type="collection">
         <element attributes="encode_utf8=false" default="javascript:gs.getUserID()" dynamic_default_value="2fd8e97bef3221002841f7f775c0fbc1" label="Order for" max_length="32" name="order_for" reference="sys_user" reference_qual="roles=x_698643_gemstar.starbucks_user^EQ" reference_qual_condition="roles=x_698643_gemstar.starbucks_user^EQ" type="reference" use_dynamic_default="true"/>
     </element>
 </database>
