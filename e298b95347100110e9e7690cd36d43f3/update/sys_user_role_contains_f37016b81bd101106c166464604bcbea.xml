@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="x_698643_gemstar.starbucks_user" name="x_698643_gemstar.starbucks_user">2f300e2997200110520cf5b3f153af46</contains>
+        <role display_value="x_698643_gemstar.starbucks_barista" name="x_698643_gemstar.starbucks_barista">1e9e35e597200110520cf5b3f153af6b</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-24 17:28:19</sys_created_on>
+        <sys_id>f37016b81bd101106c166464604bcbea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_698643_gemstar.starbucks_user.x_698643_gemstar.starbucks_barista</sys_name>
+        <sys_package display_value="Gemstar" source="x_698643_gemstar">e298b95347100110e9e7690cd36d43f3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gemstar">e298b95347100110e9e7690cd36d43f3</sys_scope>
+        <sys_update_name>sys_user_role_contains_f37016b81bd101106c166464604bcbea</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-24 17:28:19</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>
