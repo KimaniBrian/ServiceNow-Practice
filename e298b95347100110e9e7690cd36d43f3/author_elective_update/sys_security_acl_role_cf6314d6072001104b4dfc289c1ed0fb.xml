@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-22 17:25:39</sys_created_on>
+        <sys_id>cf6314d6072001104b4dfc289c1ed0fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_698643_gemstar_starbucks.x_698643_gemstar.starbucks_user</sys_name>
+        <sys_package display_value="Gemstar" source="x_698643_gemstar">e298b95347100110e9e7690cd36d43f3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gemstar">e298b95347100110e9e7690cd36d43f3</sys_scope>
+        <sys_security_acl display_value="x_698643_gemstar_starbucks">036314d6072001104b4dfc289c1ed0f9</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_cf6314d6072001104b4dfc289c1ed0fb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-22 17:25:39</sys_updated_on>
+        <sys_user_role display_value="x_698643_gemstar.starbucks_user" name="x_698643_gemstar.starbucks_user">2f300e2997200110520cf5b3f153af46</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gemstar">e298b95347100110e9e7690cd36d43f3</application>
+        <file_path/>
+        <instance_id>050934aadb5b0c10387021c40596190a</instance_id>
+        <instance_name>dev102291</instance_name>
+        <name>sys_security_acl_role_cf6314d6072001104b4dfc289c1ed0fb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-22 17:25:39</sys_created_on>
+        <sys_id>cf6314d6072001104b4dfc289c1ed0fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_698643_gemstar_starbucks.x_698643_gemstar.starbucks_user</sys_name>
+        <sys_package display_value="Gemstar" source="x_698643_gemstar">e298b95347100110e9e7690cd36d43f3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gemstar">e298b95347100110e9e7690cd36d43f3</sys_scope>
+        <sys_security_acl display_value="x_698643_gemstar_starbucks">036314d6072001104b4dfc289c1ed0f9</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_cf6314d6072001104b4dfc289c1ed0fb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-22 17:25:39</sys_updated_on>
+        <sys_user_role display_value="x_698643_gemstar.starbucks_user" name="x_698643_gemstar.starbucks_user">2f300e2997200110520cf5b3f153af46</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>]]></payload>
+        <payload_hash>-732191033</payload_hash>
+        <record_name>x_698643_gemstar_starbucks.x_698643_gemstar.starbucks_user</record_name>
+        <reverted_from/>
+        <source>6a5276f74701011080fc7868f36d434e</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-21 17:22:23</sys_created_on>
+        <sys_id>b352f6f74701011080fc7868f36d4333</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17e7da9236c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-21 17:22:23</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>7352f6f77b01011035b5de5109f5fb33</update_guid>
+        <update_guid_history>7352f6f77b01011035b5de5109f5fb33:-732191033</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_698643_gemstar_starbucks.x_698643_gemstar.starbucks_user">ee3a1e194761011080fc7868f36d43bc</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-07 17:43:30</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>1cdc54bcd46848ac908ff4beedca1c24</sys_id>
+        <sys_metadata>cf6314d6072001104b4dfc289c1ed0fb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_698643_gemstar_starbucks.x_698643_gemstar.starbucks_user</sys_name>
+        <sys_package display_value="Gemstar" source="x_698643_gemstar">e298b95347100110e9e7690cd36d43f3</sys_package>
+        <sys_parent display_value="x_698643_gemstar_starbucks">036314d6072001104b4dfc289c1ed0f9</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Gemstar">e298b95347100110e9e7690cd36d43f3</sys_scope>
+        <sys_scope_delete display_value="">1bc29ffada0949a8bab0f7cd1a95b040</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_cf6314d6072001104b4dfc289c1ed0fb</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_cf6314d6072001104b4dfc289c1ed0fb">b352f6f74701011080fc7868f36d4333</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-07 17:43:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
